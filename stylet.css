@@ -1,0 +1,33 @@
+<!doctype html>
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylet.css">
+    <title>ホームページが作れるようになるまで作ってみるホームページ</title>
+  </head>
+  <body>
+    <header><span>ホームページ</span>が作れるようになるまで作ってみるホームページ</header>
+    <main>こんなん設置してみました
+      
+    <ul>
+      <p class="testp">ここにPタグ入れたらどうなるんです？</p>
+
+      <li>内容</li>
+      <li>なにかしら</li>
+      <li>考えて</li>
+      <li>作る用のスペース</li>
+      <h1>サンプル見出しなんです</h1>
+      <p>サンプル文章なんです</p>
+      <p>偶然聖杯レイアウトみたいになりましたね</p>
+      <p>ところで左側のスペースはなんなんでしょう</p>
+    </ul>
+    <div class=spbox>
+      <div class="testbox">テスト的に追加してみたスペース
+      </div>
+      <div class="testbox2">テスト的に追加してみたスペース2つ目</div>
+    </div>
+    </main>
+    <footer>フッターって何に使うん？</footer>
+  </body>
+</html>
